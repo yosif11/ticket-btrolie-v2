@@ -33,12 +33,12 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = "!"
-const developers = "496996678088392725"
+const prefix = "البرفكس"
+const developers = "ايديك"
 
 ////////
 
-const category = "674270821921062913";
+const category = "ايدي الجنل الي تبي تروح فيه التكتات";
 let mtickets   = true;
 let tchannels  = [];
 let current    = 0;
@@ -158,4 +158,4 @@ client.on('message',async message => {
 
 
 
-client.login("NzM5NTUxOTczODQxNTY3ODE0.XycHcg.1NZMChRG2amrINxegf1s7f0Q6K4");
+client.login("توكنك الجميل");
